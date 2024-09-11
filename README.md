@@ -1,13 +1,9 @@
 <h1 align="center">Hey there 👋, Myself Avantika Chauhan</h1>
 <h3 align="center">SDE in making</h3>
 
-- 🔭 I’m currently learning **Web Development.**
+- 🔭 **Accepting contribution in:** [Algorithm-Alchemy](https://github.com/avantikachauhann/Algorithm-Alchemy)
 
-- 🌱 I’m also learning **DSA with Java**
-
-- 👯 I’m looking to collaborate on **all kinds of learning opportunities.**
-
-- 👨‍💻 A project of mine: [Campus Ambassador Portal](https://avantikachauhann.github.io/campusambassadorportal/)
+- 👨‍💻 I’m looking to collaborate on **all kinds of learning opportunities.**
 
 - 📫 How to reach me? **avantikachauhn@gmail.com**
 

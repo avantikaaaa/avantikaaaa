@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, Myself Avantika Chauhan</h1>
-<h3 align="center">SDE in making</h3>
+<h3 align="center">Learner & Explorer</h3>
 
 - 🔭 **Accepting contributions in:** [Algorithm-Alchemy](https://github.com/avantikachauhann/Algorithm-Alchemy)
 

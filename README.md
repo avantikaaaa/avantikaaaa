@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, Myself Avantika Chauhan</h1>
 <h3 align="center">SDE in making</h3>
 
-- 🔭 **Accepting contribution in:** [Algorithm-Alchemy](https://github.com/avantikachauhann/Algorithm-Alchemy)
+- 🔭 **Accepting contributions in:** [Algorithm-Alchemy](https://github.com/avantikachauhann/Algorithm-Alchemy)
 
 - 👨‍💻 I’m looking to collaborate on **all kinds of learning opportunities.**
 
